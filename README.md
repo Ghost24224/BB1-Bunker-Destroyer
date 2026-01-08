@@ -3,8 +3,8 @@
 Conceptual bunker destroyer missile project by a 14-year-old student.
 
 Features:
-- Python radar/EW simulations (saturation swarm + terminal jamming)
-- FreeCAD 3D model and technical drawings
+- Python radar/EW simulation (saturation swarm + terminal jamming)
+-technical drawing
 - Detailed specifications, scenarios and production report
 
 Inspired by real systems like Kalaetron Attack.
